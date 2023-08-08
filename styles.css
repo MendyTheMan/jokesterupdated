@@ -59,7 +59,7 @@ main {
     margin: 50px auto;
     /* margin-top: 10px; */
     /* background-color: #FFff55; */
-    background-color:aliceblue;
+    background-color: white;
     border-radius: 30px;
     border: 1px solid #303847;
     display: flex;
@@ -103,7 +103,7 @@ main {
     border: none;
     box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.7);
     /* color: #FFff55; */
-    color: aliceblue;
+    color: white;
 }
 .box-button:hover {
     background-color:#303847;
